@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: lightblue;
+    background: #D5C3C3;
 }
 .quote-box{
   background: #fff;
@@ -28,7 +28,8 @@ body{
   width: 75px;
   height: 3px;
   border-radius: 3px;
-  background: rgb(23, 124, 229);
+  background: #1B1B3A;
+  background: #1B1B3A;
   position: absolute;
   bottom: -10px;
   left: 50%;
@@ -53,7 +54,7 @@ body{
   content: '';
   width: 20px;
   height: 2px;
-  background: rgb(23, 124, 229);
+  background: #1B1B3A;
   position: absolute;
   top: 50%;
   left: -30px;
@@ -65,7 +66,7 @@ body{
   justify-content: center;
 }
 .quote-box button {
-  background: rgb(23, 124, 229);
+  background: #1B1B3A;
   color: #fff;
   border-radius: 25px;
   /* border: 1px solid rgb(23, 124, 229); */
